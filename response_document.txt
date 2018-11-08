@@ -16,4 +16,16 @@
 	  (use "git push" to publish your local commits)
 
 	nothing to commit, working tree clean
-6.	
+6.	$ git pull
+	remote: Enumerating objects: 5, done.
+	remote: Counting objects: 100% (5/5), done.
+	remote: Compressing objects: 100% (3/3), done.
+	remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+	Unpacking objects: 100% (3/3), done.
+	From https://github.com/appoxalypse/Git_Project_1
+		f286e3c..c3dcea6  master     -> origin/master
+	Updating f286e3c..c3dcea6
+	Fast-forward
+		response_document.txt | 3 +--
+		1 file changed, 1 insertion(+), 2 deletions(-)
+7.	The process was very smooth. I did not have any problems. The entire assignment was completed easily.
