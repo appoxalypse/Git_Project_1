@@ -1,7 +1,7 @@
-1. Git_Project_1
-2. Git_Project_1
-3. animal.html
-4. $ git status
+1.	Git_Project_1
+2.	Git_Project_1
+3.	animal.html
+4.	$ git status
 	On branch master
 	Your branch is up to date with 'origin/master'.
 
@@ -10,4 +10,11 @@
 
         	new file:   animal.html
         	new file:   response_document.txt
-5. 
+5.	$ git status
+	On branch master
+	Your branch is ahead of 'origin/master' by 1 commit.
+	  (use "git push" to publish your local commits)
+
+	nothing to commit, working tree clean
+
+6.	
